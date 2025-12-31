@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 I am currently a Research Assistant @ Georgia Tech where I am working with Prof. Matthew T. Flavin.
+
