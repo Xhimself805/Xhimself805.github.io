@@ -14,8 +14,8 @@ main:
   - title: "Essays"
     url: /portfolio/
         
-  - title: "CV"
-    url: "/assets/JLiu_CV.pdf"
+  #- title: "CV"
+  # url: "/assets/JLiu_CV.pdf"
     
 
 
