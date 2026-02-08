@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# Full-time research assistant @ Georgia Tech
+# Full-time Research Assistant @ Georgia Tech
 
 I am currently a Research Assistant @ [Georgia Tech](https://ece.gatech.edu/) where I am working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on artificial intelligence (AI) assisted glasses, haptics interfaces, machine vision, unmanned aerial vehicle, virtual reality (VR), etc. With an interdisciplinary background, my research insterests include flexible electronics, human-computer interaction (HCI), wearable devices, and applied machine learning.
 
-# Undergraduate research assistant @ Wuhan University
+# Undergraduate Research Assistant @ Wuhan University
 
 Previously, I finished my undergraduate courses @ [Wuhan University](https://www.whu.edu.cn/) in two years and a half while obtaining research experiences and comptetition awards. My B.S. is expected to be received in June 2026. Details are as follows:
 
