@@ -9,7 +9,7 @@ redirect_from:
 
 # ECE PhD student @ Georgia Tech
 
-Working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on information delivery technology.
+Working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on the development, integration and application of information delivery technology.
 
 # Full-time Research Assistant @ Georgia Tech
 
