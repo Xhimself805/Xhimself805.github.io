@@ -22,3 +22,4 @@ Sep. 2022 - Jun. 2026, I finished B.S. @ [Wuhan University](https://www.whu.edu.
 Under the guidance of Prof. [Kang Liu](https://www.researchgate.net/profile/Liu-Kang-8), Prof. [Xiaohui Xiao](https://www.researchgate.net/profile/Xiaohui_Xiao), and Prof. [Yang Li](https://www.researchgate.net/profile/Yang-Li-281), I authored 4 journal papers, co-first authored 2 of them. 
 
 I studied Robotics, HCI, Mechanics, and Flexible Electronics.
+
