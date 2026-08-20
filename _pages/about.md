@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# Incoming ECE PhD student @ Georgia Tech
+# ECE PhD student @ Georgia Tech
 
-Expected to return to [Georgia Tech](https://ece.gatech.edu/) working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on interdisciplinary researches, including Robotics, Computer Vision, Edge AI, and Human Computer Interaction (HCI).
+Working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on information delivery technology.
 
 # Full-time Research Assistant @ Georgia Tech
 
