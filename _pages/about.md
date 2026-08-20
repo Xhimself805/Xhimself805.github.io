@@ -9,7 +9,11 @@ redirect_from:
 
 # ECE PhD student @ Georgia Tech
 
-Working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on the development, integration and application of information delivery technology.
+Aug. 2026 - Present, Working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2) on the development, integration and application of information delivery technology.
+
+# Full-time son @ my mom
+
+May 2026 - Aug. 2026, Back home with my mom to build my body to the premium status and research sometimes.
 
 # Full-time Research Assistant @ Georgia Tech
 
