@@ -19,7 +19,7 @@ May 2026 - Aug. 2026, Back home with my mom to build my body to the premium stat
 
 Mar. 2025 - May 2026,  Research Assistant @ [Georgia Tech](https://ece.gatech.edu/) where I am working with Prof. [Matthew T. Flavin](https://www.researchgate.net/profile/Matthew-Flavin-2).
 
-# Undergraduate Research Assistant @ Wuhan University
+# B.S. @ Wuhan University
 
 Sep. 2022 - Jun. 2026, I finished B.S. @ [Wuhan University](https://www.whu.edu.cn/) in two years and a half while obtaining research experiences and comptetition awards. Then, I brought my talents to Atlanta.
 
